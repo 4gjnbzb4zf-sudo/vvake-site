@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,49238,t=>{"use strict";t.s(["format",0,function(t,e){return t.replace(/\{(\w+)\}/g,(t,o)=>o in e?String(e[o]):t)}],49238)}]);

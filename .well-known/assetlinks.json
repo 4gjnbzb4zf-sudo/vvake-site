@@ -1,0 +1,15 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vvake.app",
+      "sha256_cert_fingerprints": [
+        "87:BC:D7:03:8E:1D:B4:CD:B1:57:21:59:F4:C1:F9:DA:6B:A8:5B:9E:31:F2:F3:3C:14:FE:F4:5F:EC:1F:DC:93",
+        "8C:C8:86:9F:DF:A7:7D:D8:26:86:E2:AE:C4:3E:72:86:70:6D:C1:E8:5E:75:24:48:D6:7B:57:DF:DD:BC:26:31",
+        "10:87:68:E6:9E:9B:8F:1C:AB:30:73:32:9E:6F:68:E8:D6:51:0B:92:CE:D5:49:67:14:D2:0A:03:77:F0:8F:BF",
+        "D8:23:B4:AA:87:0E:7B:51:1F:99:F3:12:9A:94:B7:B3:AC:4F:6A:96:6C:97:3C:84:AB:74:76:EC:DE:B2:4C:9A"
+      ]
+    }
+  }
+]
