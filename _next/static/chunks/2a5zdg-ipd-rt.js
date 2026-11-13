@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,60074,t=>{"use strict";t.s(["fmt",0,(t,e={})=>t.replace(/\{(\w+)\}/g,(t,c)=>String(e[c]??`{${c}}`))])}]);

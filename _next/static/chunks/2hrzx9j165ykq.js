@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,69307,o=>{"use strict";o.s(["sampleAdminApi",0,function(){throw Error("no admin sample in a production build")}])}]);
